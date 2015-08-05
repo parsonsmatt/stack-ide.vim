@@ -1,0 +1,3 @@
+*stack-ide.txt*
+
+Author: Matt Parsons <parsonsmatt@gmail.com>
